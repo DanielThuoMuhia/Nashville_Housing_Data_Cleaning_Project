@@ -18,4 +18,4 @@ This project involves cleaning and transforming the Nashville Housing Data to pr
 The SQL scripts used in this project are available in the following links:
 
 1. **Standardize Date Format**  
-   [Download Script](path/to/standardize_date_format.sql)
+   [standardize_date_format.sql](path/to/standardize_date_format.sql)
